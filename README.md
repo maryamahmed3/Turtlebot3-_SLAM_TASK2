@@ -66,6 +66,10 @@ $ export TURTLEBOT3_MODEL=waffle_pi
 $ roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
 
 
+![2C122AC1-5201-447C-BA56-798CB4780280_1_105_c](https://user-images.githubusercontent.com/86611989/125992331-d27bc82a-edb1-4a16-bdbd-cc02d57f6bb8.jpeg)
+
+
+
 
 control the robot by :
 

@@ -79,6 +79,9 @@ $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 
 
 
+![D4E7C44F-B9E3-4D75-AB66-EC560B5806E6_1_105_c](https://user-images.githubusercontent.com/86611989/125992467-95be18f1-392e-4c3d-997e-578de1001a41.jpeg)
+
+
 
 When the map is created successfully, open a new terminal and save the map.
 

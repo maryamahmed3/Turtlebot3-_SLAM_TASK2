@@ -53,9 +53,6 @@ $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 
 
 
-![533D301F-121F-473A-A12A-A0F61BE45F2E_1_105_c](https://user-images.githubusercontent.com/86611989/125991853-482a2a07-5ddb-414c-85ac-9c2994be02c5.jpeg)
-
-
 
 
 

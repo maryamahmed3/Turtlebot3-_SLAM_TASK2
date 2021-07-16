@@ -9,7 +9,9 @@ this is steps for ROS melodic:
 
 
  $ sudo apt-get install ros-melodic-dynamixel-sdk 
+ 
  $ sudo apt-get install ros-melodic-turtlebot3-msgs
+ 
  $ sudo apt-get install ros-melodic-turtlebot3
  
 
@@ -25,7 +27,9 @@ $ echo "export TURTLEBOT3_MODEL=waffle_pi" >> ~/.bashrc
 compile  in a catkin workspace:
 
 $ cd ~/catkin_ws/src/
+
 $ git clone -b melodic-devel https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+
 $ cd ~/catkin_ws && catkin_make
 
 
@@ -33,6 +37,7 @@ Launch  gazebo simulations for the turtlebot3 robot:
 
 
 $ export TURTLEBOT3_MODEL=waffle_pi
+
 $ roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
 
 
@@ -50,6 +55,7 @@ $ roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
 control the robot movement by typing in terminal shell:
 
 $ export TURTLEBOT3_MODEL=waffle_pi
+
 $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 
 
@@ -65,6 +71,7 @@ $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 Gmapping SLAM :
 
 $ export TURTLEBOT3_MODEL=waffle_pi
+
 $ roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
 
 
@@ -77,6 +84,7 @@ control the robot by :
 
 
 $ export TURTLEBOT3_MODEL=waffle_pi
+
 $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 
 

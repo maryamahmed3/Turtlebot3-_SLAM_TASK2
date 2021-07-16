@@ -34,6 +34,10 @@ $ export TURTLEBOT3_MODEL=waffle_pi
 $ roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
 
 
+
+
+
+
 ![533D301F-121F-473A-A12A-A0F61BE45F2E_1_105_c](https://user-images.githubusercontent.com/86611989/125991610-e3cb8b66-9e59-4d45-b927-153cfd3200eb.jpeg)
 
 
@@ -45,6 +49,13 @@ control the robot movement by typing in terminal shell:
 
 $ export TURTLEBOT3_MODEL=waffle_pi
 $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
+
+
+
+
+![533D301F-121F-473A-A12A-A0F61BE45F2E_1_105_c](https://user-images.githubusercontent.com/86611989/125991853-482a2a07-5ddb-414c-85ac-9c2994be02c5.jpeg)
+
+
 
 
 

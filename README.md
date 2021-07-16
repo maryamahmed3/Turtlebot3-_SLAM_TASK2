@@ -7,9 +7,9 @@ this is steps for ROS melodic:
 
 
 
- '''$ sudo apt-get install ros-melodic-dynamixel-sdk 
+ '''$ sudo apt-get install ros-melodic-dynamixel-sdk '''
  $ sudo apt-get install ros-melodic-turtlebot3-msgs
- $ sudo apt-get install ros-melodic-turtlebot3'''
+ $ sudo apt-get install ros-melodic-turtlebot3
 
  
 
